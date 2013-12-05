@@ -61,7 +61,7 @@ And to get your data in CSV:
 
 ### JSON
 
-```js
+```json
 [
     {
         "Time": "2013-12-01 16:08:00",
